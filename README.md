@@ -1,3 +1,6 @@
+# Setup and Documentation 
+
+
 - Set up your CSV files: make sure all required data files (e.g., BTC-USD.csv, LTC-USD.csv) are prepared and placed in the correct directory.
 
 - Verify all file paths: double-check every path in the code to avoid errors due to incorrect locations.
